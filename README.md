@@ -26,7 +26,7 @@ Average Fare per Driver= **$16.57**
 
 The graph below does a great job at showcasing the data on a weekly basis:
 
-![image](https://github.com/Loulwa-Alkaisi/PyBer_Analysis/blob/93fd4962da2b19d7185a809d7f9c22998cd397ee/Analysis/Fig8.png)
+![image](https://github.com/Loulwa-Alkaisi/PyBer_Analysis/blob/631e18d06e22bcf363a9661966a7644011847dc9/Analysis/PyBer_fare_summary.png)
 
 ### **Summary**
 
